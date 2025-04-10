@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pry-GeneradorContraseñas",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pry-PracticaLicenciaConducir", "Pry-PracticaLicenciaConducir\Pry-PracticaLicenciaConducir.csproj", "{B0B0D963-1F5B-423C-8612-208BD6E0CC5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pry-JuegoPiedraPapelTijera", "Pry-JuegoPiedraPapelTijera\Pry-JuegoPiedraPapelTijera.csproj", "{AD4C1EFD-5C98-4720-8D4E-955E26E3B4BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{B0B0D963-1F5B-423C-8612-208BD6E0CC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0B0D963-1F5B-423C-8612-208BD6E0CC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0B0D963-1F5B-423C-8612-208BD6E0CC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD4C1EFD-5C98-4720-8D4E-955E26E3B4BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4C1EFD-5C98-4720-8D4E-955E26E3B4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4C1EFD-5C98-4720-8D4E-955E26E3B4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4C1EFD-5C98-4720-8D4E-955E26E3B4BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
