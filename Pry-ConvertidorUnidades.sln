@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pry-CalculadoraAreas", "Pry
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pry-GeneradorContraseñas", "Pry-GeneradorContraseñas\Pry-GeneradorContraseñas.csproj", "{4B931717-5DC8-4A39-B27D-1B0769AF6BC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pry-PracticaLicenciaConducir", "Pry-PracticaLicenciaConducir\Pry-PracticaLicenciaConducir.csproj", "{B0B0D963-1F5B-423C-8612-208BD6E0CC5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4B931717-5DC8-4A39-B27D-1B0769AF6BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B931717-5DC8-4A39-B27D-1B0769AF6BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B931717-5DC8-4A39-B27D-1B0769AF6BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0B0D963-1F5B-423C-8612-208BD6E0CC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B0D963-1F5B-423C-8612-208BD6E0CC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B0D963-1F5B-423C-8612-208BD6E0CC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B0D963-1F5B-423C-8612-208BD6E0CC5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
